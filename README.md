@@ -83,7 +83,7 @@ Before running this application, make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/antialberteinstein/authentication_test.git
 cd authentication_test
 ```
 
